@@ -165,3 +165,39 @@ John Carter was successfully added to the IT_Support security group.
 ### Screenshot 2 - IT_Support Group Added
 <img width="3024" height="4032" alt="IMG_1492" src="https://github.com/user-attachments/assets/a173000e-dd11-4458-bb6b-ebe557a66869" />
 
+---
+
+# Ticket #4 - Disable User Account 
+
+## Issue
+Employee Sarah Brooks has left the company and access must be removed.
+
+## Resolution Steps
+1. Opened Active Directory Users and Computers.
+2. Located Sarah Brooks.
+3. Right-Clicked the account 
+4. Selected Disable Account
+5. Verified the account was disabled.
+
+## Resolution 
+The user account was succesfully disabled to prevent unauthorization access.
+
+## Skills Demonstrated
+
+- Active Directory Administration
+- Account Deprovisioning
+- Identity & Access Management
+- Help Desk Operations
+- IT Documentation
+
+## Evidence
+
+### Screenshot 1 - Disable Account
+<img width="3024" height="4032" alt="IMG_1515" src="https://github.com/user-attachments/assets/7a5f3dab-3e6e-4b6f-b608-515200d17dc4" />
+
+### Screenshot 2 - Account Disabled
+<img width="3024" height="4032" alt="IMG_1516" src="https://github.com/user-attachments/assets/55f377be-b432-4656-aa21-829d59b5baaa" />
+
+---
+
+
