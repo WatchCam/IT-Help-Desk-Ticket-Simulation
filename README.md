@@ -276,3 +276,41 @@ Emily Davis was successfully moved into the HR Organizational Unit.
 
 ---
 
+# Ticket #7 - Create a Security Group
+
+## Issue
+The Finance department requires a new Active Directory security group to simplify permission management.
+
+## Resolution Steps
+
+1. Opened Active Directory Users and Computers.
+2. Navigated to the CAMLAB Users OU.
+3. Created a new Security Group named Finance_Team.
+4. Configured the group as Global and Security.
+5. Verified the group was successfully created.
+
+## Resolution
+
+The Finance_Team security group was successfully created and is ready for user assignments.
+
+## Skills Demonstrated
+
+- Active Directory Administration
+- Security Group Management
+- Access Control (RBAC)
+- Identity & Access Management
+- IT Documentation
+
+## Evidence
+
+### Screenshot 1 - Create Group Menu
+<img width="3024" height="4032" alt="IMG_1526" src="https://github.com/user-attachments/assets/a89aa061-35da-47a5-8456-6df3cc656c1c" />
+
+### Screenshot 2 - New Security Group
+<img width="3024" height="4032" alt="IMG_1527" src="https://github.com/user-attachments/assets/972d4a6b-64c2-4fea-a750-8da63b5b66c7" />
+
+### Screenshot 3 - Finance_Team Successfully Created
+<img width="3024" height="4032" alt="IMG_1528" src="https://github.com/user-attachments/assets/3dd43469-f0a8-46b3-9406-1e2ea8afbc73" />
+
+---
+
