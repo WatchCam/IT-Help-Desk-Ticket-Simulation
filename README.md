@@ -193,11 +193,12 @@ The user account was succesfully disabled to prevent unauthorization access.
 ## Evidence
 
 ### Screenshot 1 - Disable Account
-<img width="3024" height="4032" alt="IMG_1515" src="https://github.com/user-attachments/assets/7a5f3dab-3e6e-4b6f-b608-515200d17dc4" />
-
-### Screenshot 2 - Account Disabled
 <img width="3024" height="4032" alt="IMG_1516" src="https://github.com/user-attachments/assets/55f377be-b432-4656-aa21-829d59b5baaa" />
 
+### Screenshot 2 - Account Disabled
+<img width="3024" height="4032" alt="IMG_1515" src="https://github.com/user-attachments/assets/3d317c4f-61f0-4f42-b1c4-b5f1982aa8d2" />
+
 ---
+
 
 
