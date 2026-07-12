@@ -199,6 +199,80 @@ The user account was succesfully disabled to prevent unauthorization access.
 <img width="3024" height="4032" alt="IMG_1515" src="https://github.com/user-attachments/assets/3d317c4f-61f0-4f42-b1c4-b5f1982aa8d2" />
 
 ---
+# Ticket #5 - Create New Active Directory User
 
+## Issue
+A new employee, Emily Davis, requires an Active Directory account before starting work. 
 
+## Resolution Steps
+
+1. Opened Active Directory Users and Computers.
+2. Navigated to CAMLAB Users.
+3. Created a new user named Emily Davis.
+4. Assigned username e.davis.
+5. Configured an initial password.
+6. Verified the account was successfully created.
+
+## Resolution
+
+The new employee account was successfully created and is ready for access provisioning.
+
+## Skills Demonstrated
+
+- Active Directory Administration 
+- User Provisioning
+- Identity Lifecyle Management (JML)
+- Help Desk Support
+- IT Documentation
+
+## Evidence
+
+### Screenshot 1 - New User Wizard
+<img width="3024" height="4032" alt="IMG_1517" src="https://github.com/user-attachments/assets/930e2300-c04c-4f39-b01e-6bbc5ecb007d" />
+
+### Screenshot 2 - Password Configuration
+<img width="3024" height="4032" alt="IMG_1518" src="https://github.com/user-attachments/assets/6481178a-6f28-4822-acc8-acd8bdd3dfe6" />
+
+### Screenshot 3 - User Successfully Created
+<img width="3024" height="4032" alt="IMG_1519" src="https://github.com/user-attachments/assets/33576abd-74dd-4f23-89ca-f11c2067e2d0" />
+
+---
+
+# Ticket #6 - Move User to a Different Organizational Unit
+
+## Issue
+Emily davis transferred to the Human Resources department and needed to be moved to the correct Organizational Unit.
+
+## Resolution Steps
+
+1. Opened Active Directory Users and Computers.
+2. Located Emily Davis.
+3. Selected Move.
+4. Chose the HR Organizational Unit.
+5. Vewrified the user was successfully moved.
+
+## Resolution
+
+Emily Davis was successfully moved into the HR Organizational Unit.
+
+## Skills Demonstrated
+
+- Active Directory Administration
+- Organizational Units (OUs)
+- User Management
+- Identity Lifecycle Management
+- IT Documentation
+
+## Evidence
+
+### Screenshot 1 - Before Move
+<img width="3024" height="4032" alt="IMG_1523" src="https://github.com/user-attachments/assets/b64bf750-b61d-49e1-933b-77d0b456dd29" />
+
+### Screenshot 2 - Move User Dialog
+<img width="3024" height="4032" alt="IMG_1524" src="https://github.com/user-attachments/assets/913be8d6-5dcd-49e8-bd81-60600bde431f" />
+
+### Screenshot 3 - User Successfully Moved
+<img width="3024" height="4032" alt="IMG_1525" src="https://github.com/user-attachments/assets/9d4d2eec-88f8-42c8-96e4-4df173e8efb2" />
+
+---
 
